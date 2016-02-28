@@ -1,2 +1,5 @@
 # hello-world
-Just want to try
+
+Hi Humans!
+
+Ethan here.
